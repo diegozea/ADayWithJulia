@@ -1,1 +1,3 @@
-[Slides](http://slideviewer.herokuapp.com/urls/raw.githubusercontent.com/diegozea/ADayWithJulia/master/A%20couple%20of%20hours%20with%20(the)%20Julia%20(language).ipynb?create=1#/)
+* [Introducción](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29.ipynb#/)
+* [Ejercicios](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29%20%5B%20Exercises%20%5D.ipynb#/)  
+* [Análisis de datos](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29%20%5B%20Analisis%20de%20datos%20%5D.ipynb#/)  
