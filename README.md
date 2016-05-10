@@ -1,3 +1,3 @@
-* [Introducción](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29.ipynb#/)
-* [Ejercicios](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29%20%5B%20Exercises%20%5D.ipynb#/)  
-* [Análisis de datos](http://nbviewer.ipython.org/format/slides/github/diegozea/ADayWithJulia/blob/master/A%20day%20with%20%28the%29%20Julia%20%28language%29%20%5B%20Analisis%20de%20datos%20%5D.ipynb#/)  
+* [Introducción](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Introduccion_a_Julia.ipynb#/)
+* [Ejercicios](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Ejercicios.ipynb#/)  
+* [Análisis de datos](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Analisis_de_datos.ipynb#/)  
