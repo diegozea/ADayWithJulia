@@ -1,7 +1,6 @@
-* [Introducción](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Introduccion_a_Julia.ipynb#/)
-
-* [Ejercicios](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Ejercicios.ipynb#/)  
-* [Análisis de datos](http://nbviewer.jupyter.org/format/slides/github/diegozea/ADayWithJulia/blob/master/EstudiantesBioinfo2016/Analisis_de_datos.ipynb#/)  
+* [Introducción](http://nbviewer.jupyter.org/github/diegozea/ADayWithJulia/blob/master/MBBS2017/Introduccion_a_Julia.ipynb)  
+* [Ejercicios](http://nbviewer.jupyter.org/github/diegozea/ADayWithJulia/blob/master/MBBS2017/Ejercicios.ipynb)  
+* [Análisis de datos](http://nbviewer.jupyter.org/github/diegozea/ADayWithJulia/blob/master/MBBS2017/Analisis_de_datos.ipynb)  
 
 #### Programa:  
 El lenguaje *Julia* está diseñado para la computación científica. Permite escribir código fácilmente, y ejecutarlo casi a la velocidad de *C*. Julia toma lo mejor de otros lenguajes que se utilizan en la ciencia y permite la interacción con ellos, a fin de no reinventar la rueda.
